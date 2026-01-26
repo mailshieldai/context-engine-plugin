@@ -1,0 +1,14 @@
+{
+  "name": "Context Engine by Augmentcode",
+  "owner": {
+    "name": "Augmentcode"
+  },
+  "plugins": [
+    {
+      "name": "augment-context-engine",
+      "source": "./plugins/claude/augment-context-engine",
+      "description": "Easily index and query your codebase with the Augment Context Engine MCP. This extension can support millions of lines of code for easy retrieval.",
+      "version": "0.0.1"
+    }
+  ]
+}

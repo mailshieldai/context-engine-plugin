@@ -1,0 +1,7 @@
+{
+  "name": "augment-context-engine",
+  "description": "Easily index and query your codebase with the Augment Context Engine MCP. This extension can support millions of lines of code for easy retrieval.",
+  "author": {
+    "name": "Augmentcode.com"
+  }
+}
