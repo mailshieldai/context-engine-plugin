@@ -1,6 +1,6 @@
 # Augment Context Engine Plugin for Claude Code
 
-Augment Context Engine solves a common problem with AI coding assistants: not knowing where things are in your codebase. Instead of guessing or asking you to provide file paths, it uses Augment's world-leading context engine to find the right code instantly.
+Bring full codebase context into your AI workflows. The Augment Context Engine MCP delivers deep semantic understanding across large, long-lived codebases, including architecture, dependencies, and history. Use it to move beyond file-level prompts, plan changes with confidence, and automate complex tasks safely. Make system-level context a native input to your agents so AI can operate reliably on real-world production software.
 
 ## What's Included
 
