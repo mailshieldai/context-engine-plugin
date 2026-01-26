@@ -1,0 +1,6 @@
+{
+  "name": "auggie",
+  "description": "Augment Code plugin for Claude Code - provides expert codebase retrieval capabilities through the Context Engine agent and Context Engine MCP server",
+  "version": "0.0.1"
+}
+
