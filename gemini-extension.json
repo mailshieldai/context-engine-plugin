@@ -1,0 +1,16 @@
+{
+  "name": "augment-context-engine",
+  "description": "Bring full codebase context into your AI workflows. The Augment Context Engine delivers deep semantic understanding across large codebases, including architecture, dependencies, and history.",
+  "version": "1.0.0",
+  "mcpServers": {
+    "augment-context-engine": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@augmentcode/auggie@latest",
+        "--mcp",
+        "--mcp-auto-workspace"
+      ]
+    }
+  }
+}
