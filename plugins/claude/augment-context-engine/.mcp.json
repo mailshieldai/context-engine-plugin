@@ -1,7 +1,8 @@
 {
-  "auggie": {
-    "type": "http",
-    "url": "https://api.augmentcode.com/mcp"
-  }
+   "augment-context-engine": {
+      "type": "stdio",
+      "command": "auggie",
+      "args": ["--mcp", "--mcp-auto-workspace"]
+    }
 }
 
